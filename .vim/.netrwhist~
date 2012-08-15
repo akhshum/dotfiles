@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ashum/Workspace/javafiles'
+let g:netrw_dirhist_2='/Users/ashum'
+let g:netrw_dirhist_3='/Users/ashum/.vim'
+let g:netrw_dirhist_4='/Users/ashum'
